@@ -2,7 +2,7 @@
 Janet from the good place
 
 ## About
-Just look on netflix for the good place (https://de.wikipedia.org/wiki/the_good_place)
+Just look on netflix for [The Good Place](https://en.wikipedia.org/wiki/The_Good_Place)
 
 ## Examples
 * "Good girl"
